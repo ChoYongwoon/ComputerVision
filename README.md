@@ -1,6 +1,6 @@
 # ComputerVision
 
-Implementations of several traditional computer vision method without open libraries.
+## Implementations of several traditional computer vision method without open libraries.
 
 HOG : Using histogram of gradients method, implemented a simple face detection.
 
